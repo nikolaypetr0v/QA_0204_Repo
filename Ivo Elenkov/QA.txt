@@ -1,0 +1,169 @@
+
+Test management tool!!!
+
+ISTQB
+
+Test case structure
+
+1. Unique ID number
+2. Meaningful name
+3. Peiority
+4. Desctiption
+5. Prerequsites
+6. Steps
+7. Expectrd result- всяка стъпка има expected result
+
+Test Data/ Input data- Данни, които използваме по време на изпълнение
+Steps- Послефователност от неща, които извършваме.
+
+Rsult of test cases execution
+
+- Test case execution is finished once we have compared the actual and expected result
+- Possible statusses after execution
+      PASS
+      FAIL
+      BLOCKED
+
+- fail test casses need a following investigationn
+
+
+
+Categoties by Expected result criteria
+
+- positive
+- negativetesting
+
+
+Functional testing 
+
+- functional testing
+- performance testing
+- security testing
+- based on the most common
+- integration testing
+- integration test cases
+- acceptance testing- последно ниво на тестване
+- sability testing
+
+Good test case practices
+
+- planning is a crearive process
+- ensure requirements covarage
+- each test case has a specific purpose
+- priority
+- review- много важно нещо
+- independency of the test cases- независимост между тест кейсовете. Всеки тест кейс има уникално ID.
+- clear and precise description of the test case steps
+- clear idea and/ or expected result
+= write test cases with the idea that everybody should use and understand them
+- the test cases should be short and simple sentences should be used
+- there shold be some naming convention agreed.
+- Think of execution flow when writing test cases/ steps
+
+Bad test case practices
+
+1. Dependency between test cases
+2. Poor description of the test cases steps
+3. Poor description pn the idea
+
+Test suites- папки с тест кейсес
+
+1. autor
+2. project manager and developer
+3. priority
+4. overview
+5. inviroment
+different criteria
+
+Including test cases in Test suite
+
+combining test cases based  
+
+Test management system 
+
+Система, а която се създават и ъпдейтват тест менидвмънти.
+
+Test Rail
+Test Link
+
+
+Link guide
+
+материали*
+
+Skullo
+
+
+
+
+Slack
+
+
+version control= мястото,в което се съхранява софтуера.
+
+Пази история на всяка промяна. Пази история на всяка промяна.
+Мовем да се върнем към стара версия.
+Вижда се всяка промяна.
+Open source systems. 
+
+
+
+Дърпа факлове в текущо състояние. Добавяме нещо, в копието, което е при нас.
+
+
+Merging.
+
+Типове Version control systems
+
+- CVCS
+- DVCS
+
+git e мястото, в което се съхранява всичко.
+
+Git pull
+
+master branch
+
+Дърпаме такущо състояние на нашия комп.
+
+git ad
+git commit
+git push
+
+cmd/ enter
+
+git status
+
+
+GIT PULL
+работа (домашно)
+GIT ADD .
+GIT COMMIT-m"MESSAGE"
+GIT PULL
+GIT PUSH
+GIT STATUS (по всяко време)
+
+
+git init- създава папка, която е repository
+git clone- клонираме repository
+git add- добавя конкретен файл. git add . добавя всички файлове
+git status- 
+git commit-m- коментар. Винаги трябва да има съобщение
+git commit- аm- 
+git check out- gile.txt-възстановява предишната версия. Само на текущата версия
+git pull дърпа текущата версия. 
+git push- слагаме промените, които сме направили
+
+master branch
+
+git pull
+git add . 
+git commit -m ""
+git pull (just in case pull before push)
+git push
+
+git status (current status of the git repository)
+
+git init (create a folder that is repository)
+
+git checkout 

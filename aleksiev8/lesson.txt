@@ -1,0 +1,3 @@
+Hello GIT
+
+That's a exercise!

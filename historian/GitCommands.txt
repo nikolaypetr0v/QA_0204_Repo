@@ -1,0 +1,11 @@
+git pull
+git add . 
+git commit -m ""
+git pull (just in case pull before push)
+git push
+
+git status (current status of the git repository)
+
+git init (create a folder that is repository)
+
+git checkout 
